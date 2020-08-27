@@ -62,6 +62,8 @@ import ZhenYiWu
   from 'src/res/image/member/Zhen-Yi-Wu.png'
 import ZiKuanHuang
   from 'src/res/image/member/Zi-Kuan-Huang.png'
+import LiXiuWen
+  from 'src/res/image/member/Li-Xiu-Wen.jpg'
 
 export const memberData = [
   // PhD Students
@@ -114,6 +116,37 @@ export const memberData = [
     image: ShiWenNi,
   },
   // Master Students
+  {
+    zh: '黎修文',
+    en: 'LI-XIU-WEN',
+    dept: 0,
+    deg: 1,
+    image: LiXiuWen,
+  },
+  {
+    zh: '陳明吉',
+    en: 'CHEN-MING-JI',
+    dept: 0,
+    deg: 1,
+  },
+  {
+    zh: '劉建良',
+    en: 'LIU-JIAN-LIANG',
+    dept: 0,
+    deg: 1,
+  },
+  {
+    zh: '江昇翰',
+    en: 'JIANG-SHENG-HAN',
+    dept: 0,
+    deg: 1,
+  },
+  {
+    zh: '林思彤',
+    en: 'LIN-SZU-TUNG',
+    dept: 0,
+    deg: 1,
+  },
   {
     zh: '林雨瑩',
     en: 'Yu-Ying Lin',
